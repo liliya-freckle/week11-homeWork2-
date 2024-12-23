@@ -40,6 +40,11 @@ img {
     font-size: 1.075rem;
 }
 
+.price {
+    color: rgb(5, 5, 168);
+    font-weight: 600;
+}
+
 button {
     width: 16rem;
     height: 4rem;
@@ -51,4 +56,8 @@ button {
     display: flex;
     gap: 33rem;
     padding-right: 4rem;
+}
+
+.totalPay {
+    font-weight: 600;
 }
